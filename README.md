@@ -12,7 +12,7 @@
 
 [![Email](https://img.shields.io/badge/adithskumar007%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:adithskumar007@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adith-s-kumar-85b08633b/)
+[![Adith S Kumar](https://img.shields.io/badge/Adith_S_Kumar-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adith-s-kumar-85b08633b/)
 
 [![Location](https://img.shields.io/badge/Kerala,_India-0a0a0a?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kerala,India)
 
