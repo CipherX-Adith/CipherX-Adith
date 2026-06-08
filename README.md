@@ -11,7 +11,7 @@
 ```
 
 [![Email](https://img.shields.io/badge/adithskumar777%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:adithskumar007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adith-s-kumar-85b08633b/)
 [![Location](https://img.shields.io/badge/Kerala,_India-0a0a0a?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kerala,India)
 
 </div>
