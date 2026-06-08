@@ -10,11 +10,13 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:adithskumar007@gmail.com)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adith-s-kumar-85b08633b/)
+<a href="mailto:adithskumar007@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/adith-s-kumar-85b08633b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://maps.google.com/?q=Kerala,India"><img src="https://img.shields.io/badge/Kerala,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=white"></a>
 
-[![Location](https://img.shields.io/badge/Kerala,_India-0a0a0a?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kerala,India)
+</div>
 
 </div>
 
