@@ -10,13 +10,18 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adithskumar007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adith-s-kumar-85b08633b/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://maps.google.com/?q=Kerala,India">
+    <img src="https://img.shields.io/badge/Kerala,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </a>
+</p>
 
-<a href="mailto:adithskumar007@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/adith-s-kumar-85b08633b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://maps.google.com/?q=Kerala,India"><img src="https://img.shields.io/badge/Kerala,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=white"></a>
-
-</div>
 
 </div>
 
