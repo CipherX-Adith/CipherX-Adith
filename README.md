@@ -10,8 +10,8 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-[![Email](https://img.shields.io/badge/your.email%40example.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fyourprofile-0a0a0a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/adithskumar777%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:adithskumar777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fadith--s--kumar-0a0a0a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adith-s-kumar-85b08633b/)
 [![Location](https://img.shields.io/badge/Kerala,_India-0a0a0a?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kerala,India)
 
 </div>
@@ -22,10 +22,10 @@
 
 ```python
 class AdithSKumar:
-    role        = "B.Tech Data Science Student & SDE Intern"
+    role        = "B.Tech Data Science Student"
     college     = "Mar Athanasius College of Engineering"
     batch       = "2023 – Present"
-    currently   = "Software Development Intern @ Saasvaap Industries"
+    currently   = "B.Tech Data Science Student"
     stack       = ["React", "Spring Boot", "Python ML pipelines"]
     strength    = "Owning a project end-to-end — DB schema to deployed UI"
     motto       = "Ship polished, demo-ready products. Under any deadline."
@@ -84,16 +84,16 @@ class AdithSKumar:
 
 ---
 
-## `> experience --current`
+## `> experience --history`
 
 <details open>
-<summary><b>💼 Software Development Intern · Saasvaap Industries</b> <code>Present</code></summary>
+<summary><b>💼 Software Development Intern · Saasvaap Industries</b> <code>Past</code></summary>
 <br>
 
-> *Building internal tools that real teams use every day.*
+> *Built internal tools that real teams use every day.*
 
-- Developing internal web portal projects, including an **Intern Management Portal** built in React with **role-based access control** for admins and interns
-- Collaborating on production-facing front-end features, translating internal workflow requirements into functional UI components
+- Developed internal web portal projects, including an **Intern Management Portal** built in React with **role-based access control** for admins and interns
+- Collaborated on production-facing front-end features, translating internal workflow requirements into functional UI components
 
 </details>
 
@@ -135,7 +135,9 @@ class AdithSKumar:
 
 | 🎓 Institution | 📘 Program | 📅 Year |
 |---|---|---|
-| Mar Athanasius College of Engineering, Kerala | B.Tech in Data Science | 2023 – Present |
+| Mar Athanasius College of Engineering, Kerala | B.Tech in Computer Science (Data Science) | 2024 – Present |
+| MVHSS | Higher Secondary | 2021 – 2023 |
+| MVHSS | High School | 2010 – 2021 |
 
 ---
 
