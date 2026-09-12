@@ -24,7 +24,7 @@
 class AdithSKumar:
     role        = "B.Tech Data Science Student"
     college     = "Mar Athanasius College of Engineering"
-    batch       = "2023 – Present"
+    batch       = "2024 – Present"
     currently   = "B.Tech Data Science Student"
     stack       = ["React", "Spring Boot", "Python ML pipelines"]
     strength    = "Owning a project end-to-end — DB schema to deployed UI"
