@@ -1,7 +1,7 @@
 #!/bin/bash
 read -p "Enter your GitHub username: " USERNAME
 git init
-git add README.md
+git add .
 git commit -m "Add GitHub profile README"
 git remote add origin https://github.com/$USERNAME/$USERNAME.git
 git branch -M main

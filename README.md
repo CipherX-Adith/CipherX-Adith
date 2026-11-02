@@ -1,164 +1,279 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        A D I T H   S   K U M A R                          ║
-║        ─────────────────────────────                      ║
-║        B.Tech Data Science  ·  Kerala, India              ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=ADITH%20S%20KUMAR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=7DCFFF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Adith+S+Kumar+%F0%9F%91%8B;B.Tech+CSE+(Data+Science)+Undergraduate;AI+%C2%B7+Cybersecurity+%C2%B7+Software+Development;Backend+Engineering+%26+API+Architectures;Building+Practical+Software+Solutions;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<!-- Snake Contribution Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CipherX-Adith/CipherX-Adith/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CipherX-Adith/CipherX-Adith/output/github-contribution-grid-snake.svg">
+  <img alt="Adith's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CipherX-Adith/CipherX-Adith/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+<!-- Social & Contact Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adith-s-kumar-85b08633b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CipherX-Adith)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithskumar777@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=CipherX-Adith&color=7dcfff&style=for-the-badge&label=VISITORS)
+
+</div>
+
+<br/>
+
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## 👨‍💻 About Me
+
+```python
+class DataScienceStudent:
+    def __init__(self):
+        self.name = "Adith S Kumar"
+        self.role = "B.Tech CSE (Data Science) Student"
+        self.institution = "Mar Athanasius College of Engineering, Kerala"
+        self.batch = "2024 – Present"
+        self.location = "Kerala, India"
+        self.interests = [
+            "Artificial Intelligence & Machine Learning",
+            "Cybersecurity & Ethical Hacking",
+            "Full-Stack Software Development",
+            "Backend Engineering & API Design",
+            "AI-Powered Applications"
+        ]
+
+    def current_focus(self):
+        return "Hands-on projects · Scalable backends · Hackathons"
+
+    def daily_routine(self):
+        return "Explore ➔ Code ➔ Build ➔ Refactor ➔ Repeat 🔄"
+
+adith = DataScienceStudent()
 ```
 
-[![Email](https://img.shields.io/badge/adithskumar777%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:adithskumar777@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fadith--s--kumar-0a0a0a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/adith-s-kumar-85b08633b/)
-[![Location](https://img.shields.io/badge/Kerala,_India-0a0a0a?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Kerala,India)
+I'm **Adith S Kumar**, a Computer Science and Engineering (Data Science) undergraduate at **Mar Athanasius College of Engineering, Kerala**.
+
+I'm passionate about exploring technology, understanding how systems work under the hood, and turning ideas into practical software solutions.
+
+My interests span **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Full-Stack Development**. I enjoy experimenting with different technologies, developing applications, exploring backend architectures, and continuously expanding my technical knowledge.
+
+I believe in learning through hands-on development, solving challenging problems, collaborating with others, and participating in hackathons. Currently exploring new technologies, building projects, and working towards becoming a better engineer with every implementation.
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<details open>
+<summary><b>⚡ Core Technologies & Tools</b></summary>
+<br/>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### 🤖 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+</p>
+
+### 🛠️ Developer Tools & Environments
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🎓 <a href="https://github.com/CipherX-Adith/Placeonix">Placeonix — Smart Placement & Recruitment Platform</a></h3>
+      <p>A centralized campus recruitment platform bridging students, recruiters, and placement officers in a single unified ecosystem.</p>
+      <ul>
+        <li><b>Student Portal:</b> Academic profile management, resume upload with instant verification, live job openings board, automated eligibility evaluation (CGPA, active backlogs, department matching), and real-time application progression tracking.</li>
+        <li><b>Recruiter Portal:</b> Organization profile verification, job posting with an interactive eligibility criteria builder, candidate filtering, and 1-click interview scheduling.</li>
+        <li><b>Placement Admin Console:</b> Institutional placement analytics, company verification console, broadcast notifications, and instant CSV placement statistics report export.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT_Auth-black?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="100%">
+      <h3>💳 <a href="https://github.com/CipherX-Adith/management_system">Billing Management System (BrightLoop Billing)</a></h3>
+      <p>A full-stack billing engine and subscription lifecycle management platform built with a modular monorepo architecture.</p>
+      <ul>
+        <li><b>Service & Plan Catalog:</b> Multi-tier subscription model (Starter, Professional, Enterprise) supporting flexible billing frequencies (monthly, quarterly, yearly).</li>
+        <li><b>Billing & Invoicing Engine:</b> Automated invoice calculation with Indian GST rules (CGST/SGST vs IGST), discount handlers, and recurring scheduled billing jobs.</li>
+        <li><b>Payment Verification:</b> UPI transaction reference submission, staff payment claim approval, and dynamic subscription activation.</li>
+        <li><b>Financial Analytics:</b> Real-time dashboard computing Monthly Recurring Revenue (MRR), subscriber churn, and revenue trends.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="100%">
+      <h3>🍽️ <a href="https://github.com/CipherX-Adith/DineDesk">DineDesk — Restaurant Management System</a></h3>
+      <p>A full-stack restaurant operations platform spanning 16 responsive screens across Customer, Staff, and Admin workflows.</p>
+      <ul>
+        <li><b>Database Architecture:</b> Designed and implemented MySQL relational schemas utilizing PL/SQL triggers, stored procedures, and cursors for automated order processing and real-time inventory tracking.</li>
+        <li><b>Real-Time Synchronization:</b> Integrated WebSockets for instant live order updates between customer status, front-of-house staff, and kitchen displays.</li>
+        <li><b>Security:</b> Enforced role-based access control with secure JWT authentication.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT_Auth-black?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+### **Software Development Intern** · SaaSvaap Industries
+*Internship Exposure*
+
+- Gained practical exposure to software development workflows, frontend engineering, and professional engineering practices.
+- Explored internal web tooling and role-based application features, collaborating on translating operational requirements into functional user interfaces.
+
+---
+
+## 🎓 Education
+
+| 🏛️ Institution | 📘 Program | 📅 Period | 📍 Location |
+|:---|:---|:---:|:---|
+| **Mar Athanasius College of Engineering** | B.Tech in Computer Science and Engineering (Data Science) | 2024 – Present | Kothamangalam, Kerala |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=CipherX-Adith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DCFFF&icon_color=7AA2F7&text_color=A9B1D6" alt="Adith's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CipherX-Adith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DCFFF&text_color=A9B1D6" alt="Adith's Top Languages" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=CipherX-Adith&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7DCFFF&fire=7DCFFF&currStreakLabel=7DCFFF" alt="Adith's GitHub Streak" />
 
 </div>
 
 ---
 
-## `> whoami`
-
-```python
-class AdithSKumar:
-    role        = "B.Tech Data Science Student"
-    college     = "Mar Athanasius College of Engineering"
-    batch       = "2024 – Present"
-    currently   = "B.Tech Data Science Student"
-    stack       = ["React", "Spring Boot", "Python ML pipelines"]
-    strength    = "Owning a project end-to-end — DB schema to deployed UI"
-    motto       = "Ship polished, demo-ready products. Under any deadline."
-```
-
----
-
-## `> skills --list`
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1)
-![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=A8B9CC)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React.js-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=flat-square&logo=vite&logoColor=646CFF)
-![HTML](https://img.shields.io/badge/HTML-0a0a0a?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0a0a0a?style=flat-square&logo=css3&logoColor=1572B6)
-
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-0a0a0a?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=4479A1)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-0a0a0a?style=flat-square&logo=oracle&logoColor=F80000)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=FFCA28)
-
-### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-0a0a0a?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=flat-square&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=flat-square&logo=numpy&logoColor=013243)
-
-### 🛠️ Tools & GenAI
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=flat-square&logo=postman&logoColor=FF6C37)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-0a0a0a?style=flat-square&logo=intellijidea&logoColor=white)
-![Midjourney](https://img.shields.io/badge/Prompt_Engineering-0a0a0a?style=flat-square&logo=midjourney&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## `> experience --history`
-
-<details open>
-<summary><b>💼 Software Development Intern · Saasvaap Industries</b> <code>Past</code></summary>
-<br>
-
-> *Built internal tools that real teams use every day.*
-
-- Developed internal web portal projects, including an **Intern Management Portal** built in React with **role-based access control** for admins and interns
-- Collaborated on production-facing front-end features, translating internal workflow requirements into functional UI components
-
-</details>
-
----
-
-## `> projects --featured`
-
-<details open>
-<summary><b>🛡️ PHANTOM — GenAI-Powered APK/Malware Analysis Platform</b></summary>
-<br>
-
-> *CyberShield Hackathon 2026 · Team DarkVector · Problem Statement 1 (PS1)*
-
-- Designed a **five-module security analysis platform** — GhostBait, MirrorShield, AutoYARA, ForensicChain, and SENTRY (real-time on-device permission interception)
-- Built a fully designed **HTML prototype with glassmorphism UI** to demo the workflow end to end
-- Authored a polished **abstract submission (PDF/DOCX)** covering architecture and module design for hackathon judging
-
-`GenAI` `Security Tooling` `HTML/CSS` `Prompt Engineering`
-
-</details>
-
-<details open>
-<summary><b>🍽️ DineDesk — Restaurant Management System</b></summary>
-<br>
-
-> *Full-stack platform spanning Customer, Staff, and Admin flows.*
-
-- Built a full-stack restaurant management platform spanning **16 screens** across Customer, Staff, and Admin flows using **React and Vite**, backed by a mock API layer for rapid UI iteration
-- Developed the backend with **Spring Boot and MySQL**, implementing **PL/SQL triggers, stored procedures, and cursors** for order and inventory logic
-- Secured the application with **JWT-based authentication** and added **WebSocket support** for real-time order updates
-
-`React` `Vite` `Spring Boot` `MySQL` `JWT` `WebSocket`
-
-</details>
-
----
-
-## `> education --history`
-
-| 🎓 Institution | 📘 Program | 📅 Year |
-|---|---|---|
-| Mar Athanasius College of Engineering, Kerala | B.Tech in Computer Science (Data Science) | 2024 – Present |
-| MVHSS | Higher Secondary | 2021 – 2023 |
-| MVHSS | High School | 2010 – 2021 |
-
----
-
-## `> soft_skills --list`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🧩  Problem Solving          🤝  Team Collaboration        │
-│  ⏱️  Ownership Under Deadlines 🔄  Adaptability              │
-│  📚  Self-Directed Learning                                 │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
+## 📫 Let's Connect & Collaborate!
 
 <div align="center">
 
-```
-[ From database schema to deployed UI — owning the whole stack. ]
-```
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/adith-s-kumar-85b08633b/">
+        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50" alt="LinkedIn"/>
+        <br><b>LinkedIn</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/CipherX-Adith">
+        <img src="https://img.icons8.com/fluency/96/000000/github.png" width="50" alt="GitHub"/>
+        <br><b>GitHub</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:adithskumar777@gmail.com">
+        <img src="https://img.icons8.com/fluency/96/000000/email-open.png" width="50" alt="Email"/>
+        <br><b>Email</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0a0a0a&style=flat-square&label=PROFILE+VIEWS)
+### 💬 Open To:
+✨ Collaborating on innovative web and data science projects  
+🚀 Participating in hackathons and engineering sprints  
+🛠️ Backend architecture, API development, and system design  
+🌐 Open-source contributions and knowledge exchange  
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+### ⭐ *"Turning ideas into code, one commit at a time."*
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
