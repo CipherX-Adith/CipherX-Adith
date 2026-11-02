@@ -87,25 +87,50 @@ class DataScienceStudent:
 adith = DataScienceStudent()
 ```
 
-<p>
-I'm <b>Adith S Kumar</b>, a Computer Science and Engineering (Data Science) undergraduate at <b>Mar Athanasius College of Engineering, Kerala</b>.
-</p>
+</td>
+</tr>
+</table>
 
-<p>
-I'm passionate about exploring technology, understanding how systems work, and turning ideas into practical software solutions.
-</p>
+<br/>
 
-<p>
-My interests span <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Cybersecurity</b>, and <b>Full-Stack Development</b>. I enjoy experimenting with different technologies, developing applications, exploring backend architectures, and continuously expanding my technical knowledge.
-</p>
+### ⚡ Core Engineering Pillars
 
-<p>
-I believe in learning through hands-on development, solving challenging problems, collaborating with others, and participating in hackathons.
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="38" alt="AI & ML"/><br/>
+      <b>🤖 AI & Data Science</b>
+      <p>Exploring machine learning models, predictive data pipelines, and intelligent AI-powered software.</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/fluency/48/shield.png" width="38" alt="Cybersecurity"/><br/>
+      <b>🛡️ Cybersecurity</b>
+      <p>Passionate about ethical hacking, defensive security architectures, and robust system hardening.</p>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.icons8.com/fluency/48/source-code.png" width="38" alt="Full Stack"/><br/>
+      <b>💻 Full-Stack & APIs</b>
+      <p>Engineering resilient backend architectures, clean database schemas, and responsive modern web UIs.</p>
+    </td>
+  </tr>
+</table>
 
-<p>
-Currently exploring new technologies, building projects, and working towards becoming a better engineer with every implementation.
-</p>
+<br/>
+
+### 💡 Background & Engineering Journey
+
+> *"I believe in learning through hands-on development, solving challenging problems, collaborating with peers, and competing in hackathons."*
+
+<table>
+<tr>
+<td>
+
+I'm **Adith S Kumar**, a Computer Science and Engineering (Data Science) undergraduate at **Mar Athanasius College of Engineering, Kerala** (2024 – Present).
+
+- 🔭 **Exploration Mindset:** Passionate about exploring technology, understanding how systems work under the hood, and turning ideas into practical software solutions.
+- ⚙️ **Backend & Architecture:** Constantly experimenting with Spring Boot, Node.js, Express, and FastAPI to construct robust, battle-tested APIs.
+- 🚀 **Hackathons & Sprints:** Enthusiastic about team collaboration, rapid prototyping, and delivering polished, functional implementations under tight deadlines.
+- 📈 **Continuous Growth:** Continuously exploring emerging technologies, building projects, and working towards becoming a better engineer with every implementation.
 
 </td>
 </tr>
