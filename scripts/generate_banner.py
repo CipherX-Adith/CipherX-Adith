@@ -270,3 +270,4 @@ if __name__ == "__main__":
     with open(light_path, "w", encoding="utf-8") as f:
         f.write(light_svg)
     print(f"Generated: {light_path} ({os.path.getsize(light_path)/1024:.1f} KB)")
+
