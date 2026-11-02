@@ -47,43 +47,69 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" alt="Adith's Shinobi ID Card" width="310" src="assets/shinobi_id_card.png">
+## 👨‍💻 About Me
 
-## 🥷 Shinobi Profile // About Me
+<div align="center">
+
+<h3><code>adith@github ~ $ whoami</code></h3>
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="46%">
+  <img src="./adith-ascii.svg" width="100%" alt="Adith S Kumar — ASCII Portrait" />
+</td>
+<td valign="top" width="54%">
 
 ```python
-# 📜 Shinobi Registration & Ninja Data Card
-class ShinobiDeveloper:
+class DataScienceStudent:
     def __init__(self):
-        self.shinobi = "Adith S Kumar"
-        self.affiliation = "Mar Athanasius College of Engineering 🍃"
-        self.rank = "Data Science Shinobi (2024 – Present)"
+        self.name = "Adith S Kumar"
+        self.role = "B.Tech CSE (Data Science) Student"
+        self.institution = "Mar Athanasius College of Engineering"
+        self.batch = "2024 – Present"
         self.location = "Kerala, India 🇮🇳"
-        
-        # Chakra Affinities & Jutsu Arsenal
-        self.chakra_natures = ["Python", "Java", "TypeScript", "SQL", "C"]
-        self.jutsu_arsenal = {
-            "Ninjutsu": "Full-Stack Web & Scalable Backend Architectures",
-            "Genjutsu": "Cybersecurity & Defensive System Hardening",
-            "Dōjutsu":  "Data Science, Machine Learning & Intelligent AI"
-        }
+        self.interests = [
+            "Artificial Intelligence & Machine Learning",
+            "Cybersecurity & Ethical Hacking",
+            "Full-Stack Software Development",
+            "Backend Engineering & API Design",
+            "AI-Powered Applications"
+        ]
 
-    def nindo(self):
-        """My Ninja Way (忍道)"""
-        return "Never back down from a bug · Learn by building · Ship with impact!"
+    def current_focus(self):
+        return "Hands-on projects · Scalable backends · Hackathons"
 
-adith = ShinobiDeveloper()
+    def daily_routine(self):
+        return "Explore ➔ Code ➔ Build ➔ Refactor ➔ Repeat 🔄"
+
+adith = DataScienceStudent()
 ```
 
-Welcome to my digital ninja scroll! I'm **Adith S Kumar**, a Computer Science and Engineering (Data Science) undergraduate at **Mar Athanasius College of Engineering, Kerala**.
+<p>
+I'm <b>Adith S Kumar</b>, a Computer Science and Engineering (Data Science) undergraduate at <b>Mar Athanasius College of Engineering, Kerala</b>.
+</p>
 
-Like a shinobi training in the Academy to master elemental chakra natures, I'm passionate about exploring how complex systems operate under the hood and forging practical software solutions from scratch.
+<p>
+I'm passionate about exploring technology, understanding how systems work, and turning ideas into practical software solutions.
+</p>
 
-My core interests flow through **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Full-Stack Development**. I enjoy engineering robust backend architectures, securing application perimeters, exploring API designs, and building AI-powered tools.
+<p>
+My interests span <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Cybersecurity</b>, and <b>Full-Stack Development</b>. I enjoy experimenting with different technologies, developing applications, exploring backend architectures, and continuously expanding my technical knowledge.
+</p>
 
-My **Nindo (Ninja Way)** is simple: *Learn through relentless hands-on building, collaborate on innovative projects, tackle hackathons, and become a sharper engineer with every single commit.*
+<p>
+I believe in learning through hands-on development, solving challenging problems, collaborating with others, and participating in hackathons.
+</p>
 
-<br clear="right"/>
+<p>
+Currently exploring new technologies, building projects, and working towards becoming a better engineer with every implementation.
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
