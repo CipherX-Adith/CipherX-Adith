@@ -93,6 +93,20 @@ adith = DataScienceStudent()
 
 <br/>
 
+### 📖 Story & Background
+
+I'm **Adith S Kumar**, a Computer Science and Engineering (Data Science) undergraduate at **Mar Athanasius College of Engineering, Kerala**.
+
+I'm passionate about exploring technology, understanding how systems work, and turning ideas into practical software solutions.
+
+My interests span **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Full-Stack Development**. I enjoy experimenting with different technologies, developing applications, exploring backend architectures, and continuously expanding my technical knowledge.
+
+I believe in learning through hands-on development, solving challenging problems, collaborating with others, and participating in hackathons.
+
+Currently exploring new technologies, building projects, and working towards becoming a better engineer with every implementation.
+
+<br/>
+
 ### ⚡ Core Engineering Pillars
 
 <table>
@@ -113,27 +127,6 @@ adith = DataScienceStudent()
       <p>Engineering resilient backend architectures, clean database schemas, and responsive modern web UIs.</p>
     </td>
   </tr>
-</table>
-
-<br/>
-
-### 💡 Background & Engineering Journey
-
-> *"I believe in learning through hands-on development, solving challenging problems, collaborating with peers, and competing in hackathons."*
-
-<table>
-<tr>
-<td>
-
-I'm **Adith S Kumar**, a Computer Science and Engineering (Data Science) undergraduate at **Mar Athanasius College of Engineering, Kerala** (2024 – Present).
-
-- 🔭 **Exploration Mindset:** Passionate about exploring technology, understanding how systems work under the hood, and turning ideas into practical software solutions.
-- ⚙️ **Backend & Architecture:** Constantly experimenting with Spring Boot, Node.js, Express, and FastAPI to construct robust, battle-tested APIs.
-- 🚀 **Hackathons & Sprints:** Enthusiastic about team collaboration, rapid prototyping, and delivering polished, functional implementations under tight deadlines.
-- 📈 **Continuous Growth:** Continuously exploring emerging technologies, building projects, and working towards becoming a better engineer with every implementation.
-
-</td>
-</tr>
 </table>
 
 ---
