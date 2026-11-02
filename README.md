@@ -8,62 +8,80 @@
 
 <br/>
 
-<!-- Snake Contribution Animation -->
+<!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CipherX-Adith/CipherX-Adith/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CipherX-Adith/CipherX-Adith/output/github-contribution-grid-snake.svg">
-  <img alt="Adith's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CipherX-Adith/CipherX-Adith/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/><br/>
 
 <!-- Social & Contact Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adith-s-kumar-85b08633b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CipherX-Adith)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithskumar777@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=CipherX-Adith&color=7dcfff&style=for-the-badge&label=VISITORS)
+<a href="https://github.com/CipherX-Adith">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=450&lines=Let's+Connect+and+Build+Together!" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adith-s-kumar-85b08633b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/CipherX-Adith">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:adithskumar777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CipherX-Adith&color=7dcfff&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+</p>
 
 </div>
 
 <br/>
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Adith's Shinobi ID Card" width="310" src="assets/shinobi_id_card.png">
 
-## 👨‍💻 About Me
+## 🥷 Shinobi Profile // About Me
 
 ```python
-class DataScienceStudent:
+# 📜 Shinobi Registration & Ninja Data Card
+class ShinobiDeveloper:
     def __init__(self):
-        self.name = "Adith S Kumar"
-        self.role = "B.Tech CSE (Data Science) Student"
-        self.institution = "Mar Athanasius College of Engineering, Kerala"
-        self.batch = "2024 – Present"
-        self.location = "Kerala, India"
-        self.interests = [
-            "Artificial Intelligence & Machine Learning",
-            "Cybersecurity & Ethical Hacking",
-            "Full-Stack Software Development",
-            "Backend Engineering & API Design",
-            "AI-Powered Applications"
-        ]
+        self.shinobi = "Adith S Kumar"
+        self.affiliation = "Mar Athanasius College of Engineering 🍃"
+        self.rank = "Data Science Shinobi (2024 – Present)"
+        self.location = "Kerala, India 🇮🇳"
+        
+        # Chakra Affinities & Jutsu Arsenal
+        self.chakra_natures = ["Python", "Java", "TypeScript", "SQL", "C"]
+        self.jutsu_arsenal = {
+            "Ninjutsu": "Full-Stack Web & Scalable Backend Architectures",
+            "Genjutsu": "Cybersecurity & Defensive System Hardening",
+            "Dōjutsu":  "Data Science, Machine Learning & Intelligent AI"
+        }
 
-    def current_focus(self):
-        return "Hands-on projects · Scalable backends · Hackathons"
+    def nindo(self):
+        """My Ninja Way (忍道)"""
+        return "Never back down from a bug · Learn by building · Ship with impact!"
 
-    def daily_routine(self):
-        return "Explore ➔ Code ➔ Build ➔ Refactor ➔ Repeat 🔄"
-
-adith = DataScienceStudent()
+adith = ShinobiDeveloper()
 ```
 
-I'm **Adith S Kumar**, a Computer Science and Engineering (Data Science) undergraduate at **Mar Athanasius College of Engineering, Kerala**.
+Welcome to my digital ninja scroll! I'm **Adith S Kumar**, a Computer Science and Engineering (Data Science) undergraduate at **Mar Athanasius College of Engineering, Kerala**.
 
-I'm passionate about exploring technology, understanding how systems work under the hood, and turning ideas into practical software solutions.
+Like a shinobi training in the Academy to master elemental chakra natures, I'm passionate about exploring how complex systems operate under the hood and forging practical software solutions from scratch.
 
-My interests span **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Full-Stack Development**. I enjoy experimenting with different technologies, developing applications, exploring backend architectures, and continuously expanding my technical knowledge.
+My core interests flow through **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Full-Stack Development**. I enjoy engineering robust backend architectures, securing application perimeters, exploring API designs, and building AI-powered tools.
 
-I believe in learning through hands-on development, solving challenging problems, collaborating with others, and participating in hackathons. Currently exploring new technologies, building projects, and working towards becoming a better engineer with every implementation.
+My **Nindo (Ninja Way)** is simple: *Learn through relentless hands-on building, collaborate on innovative projects, tackle hackathons, and become a sharper engineer with every single commit.*
 
 <br clear="right"/>
 
@@ -229,7 +247,7 @@ I believe in learning through hands-on development, solving challenging problems
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=CipherX-Adith&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7DCFFF&fire=7DCFFF&currStreakLabel=7DCFFF" alt="Adith's GitHub Streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CipherX-Adith&theme=tokyonight" alt="Adith's GitHub Profile Details" />
 
 </div>
 
